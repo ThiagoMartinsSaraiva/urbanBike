@@ -1,0 +1,11 @@
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\bin\Debug\UrbanBike.exe.config
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\bin\Debug\UrbanBike.exe
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\bin\Debug\UrbanBike.pdb
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.FormularioConta.resources
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.Properties.Resources.resources
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.exe
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.pdb
+C:\Users\Thiago\source\repos\UrbanBike\UrbanBike\obj\Debug\UrbanBike.frmUrbanBike.resources
